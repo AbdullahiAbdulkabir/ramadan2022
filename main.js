@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
 
   // Set up FlipDown
-  var flipdown = new FlipDown(1587563200)
+  var flipdown = new FlipDown(1618182000)
 
     // Start the countdown
     .start()
